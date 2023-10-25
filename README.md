@@ -6,7 +6,7 @@ This GitHub repository is a dedicated space for organizing and sharing Vuforia A
 Area target unity packages of the ground floor are included in this project in case area targets don't load up.
 Simply go to
 
-> **Assets > Area Target Packages > **
+> **Assets > Area Target Packages >**
 
 There You will find **4 Sample targets** of the CS Ground Floor building.
 + CS Left side

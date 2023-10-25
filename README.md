@@ -14,4 +14,4 @@ There You will find **4 Sample targets** of the CS Ground Floor building.
 + CS Right Side
 + CS Front Side
   
-Just install/import these 4 unity packages and refresh the database of those 4 area targets (Reselect the area target corresponding to their names and they will show up.) 
+Just install/import these .unity packages and refresh the database of those 4 area targets (e.g; Reselect the area target corresponding to their names and they will show up.) 

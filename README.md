@@ -2,7 +2,7 @@
 This GitHub repository is a dedicated space for organizing and sharing Vuforia Area Target - Indoor Navigation.
 
 
-# Area Targets of Ground Floor
+## If Area Targets don't  show up!
 Area target unity packages of the ground floor are included in this project in case area targets don't load up.
 Simply go to
 
